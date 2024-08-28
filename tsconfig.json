@@ -1,0 +1,12 @@
+{
+  "compileOnSave": true,
+    "compilerOptions": {
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "target": "ES6",
+      "typeRoots": [
+        "@types",
+        "./node_modules/@types"
+      ]
+    },
+  }
